@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Página Principal (Root) -->
+  <url>
+    <loc>https://utahsepticandrain.com/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Saratoga Springs -->
+  <url>
+    <loc>https://utahsepticandrain.com/tank-saratoga-springs.html/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Goshen -->
+  <url>
+    <loc>https://utahsepticandrain.com/tank-goshen.html/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Mona -->
+  <url>
+    <loc>https://utahsepticandrain.com/tank-mona/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Nephi -->
+  <url>
+    <loc>https://utahsepticandrain.com/tank-nephi.html/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+   <!-- Eagle Mountain -->
+    <url>
+        <loc>https://utahsepticandrain.com/tank-eagle-mountain.html/</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+
+</urlset>

@@ -1,0 +1,24 @@
+{
+  "short_name": "Utah Septic",
+  "name": "Utah Septic & Pumping Services",
+  "icons": [
+    {
+      "src": "/android-chrome-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#0a192f",
+  "theme_color": "#0277bd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "24/7 Emergency septic tank pumping, drain field jetting, and sewage backup cleaning across Utah County, Juab County, and surrounding areas."
+}
