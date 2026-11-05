@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://utahsepticandrain.com/Sitemap.xml
+Sitemap: https://utahsepticandrain.com/sitemap.xml
