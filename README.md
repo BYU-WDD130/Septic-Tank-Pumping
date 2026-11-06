@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5386a25-e9f1-4f99-b56f-b0b2916fe5a2/deploy-status)](https://app.netlify.com/projects/septic-tank-pumping-utah/deploys)
